@@ -79,8 +79,7 @@ export default function App() {
               <div className="text-xs tracking-[0.2em] text-black/55">THE OFFER</div>
               <div className="mt-3 text-xl font-semibold">Fractional first sales hire</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                A strategic GTM partner for Seed to Series A startups. I help build systems, generate lead lists,
-                convert feedback loops into messaging, and define a sales and qualification process to help you prepare for a full-time sales hire.
+                I help you help prepare for a full-time sales hire. 
               </p>
 
               <ul className="mt-6 space-y-2 text-sm text-black/70">
@@ -96,7 +95,7 @@ export default function App() {
             <div className="mt-12">
               <div className="text-xs tracking-[0.2em] text-black/55">BACKGROUND</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                Hey, I’m Priyanka! I've been a first sales hire for multiple high-growth startups. I know the challenges of seeing early signs of product-market fit, iterating on messaging and value and building repeatable sales motions. I love working with passionate founders and tackling go to market and growth challenges.
+                Hey, I’m Priyanka! I've been a first sales hire for multiple high-growth startups. I've been lucky to work at companies like Securitize (raised $100M from Coinbase) as one of the first ten employees and have been a founding AE 2x as well as a founder. I've experienced insane PMF and what it's like to struggle for it. I love working with passionate founders and tackling early growth challenges. 
               </p>
               <p className="mt-3 text-sm text-black/60">
               </p>
