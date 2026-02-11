@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  height: 100%;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-white text-black;
+}
+
+/* A little smoothing to match the clean landing-page vibe */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
