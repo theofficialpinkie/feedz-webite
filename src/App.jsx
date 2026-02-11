@@ -108,9 +108,6 @@ export default function App() {
                 <a className="hover:text-black" href={linkedin}>
                   LinkedIn
                 </a>
-                <a className="hover:text-black" href={`mailto:${email}`}>
-                  {email}
-                </a>
                 <a className="hover:text-black" href={calendly}>
                   Book
                 </a>
