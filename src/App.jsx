@@ -60,7 +60,7 @@ export default function App() {
 
             {/* Hero */}
             <h1 className="mt-6 text-4xl font-semibold tracking-tight md:text-5xl">
-              Fractional first growth hire for early-stage startups.
+              Fractional first growth sales for early-stage startups.
             </h1>
 
             <p className="mt-5 text-base leading-relaxed text-black/70 md:text-lg">
@@ -77,16 +77,16 @@ export default function App() {
             {/* Offer (simple, no boxes) */}
             <div className="mt-12">
               <div className="text-xs tracking-[0.2em] text-black/55">THE OFFER</div>
-              <div className="mt-3 text-xl font-semibold">Fractional first sales hire</div>
+              <div className="mt-3 text-xl font-semibold">Preparing You for Your First Sales Hire</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                I help you help prepare for a full-time sales hire. 
+
               </p>
 
               <ul className="mt-6 space-y-2 text-sm text-black/70">
-                <li>• ICP and positioning refinement</li>
-                <li>• CRM and sales tooling implementation</li>
-                <li>• Structured insight from real customer conversations</li>
-                <li>• Qualification and pipeline design</li>
+                <li>• ICP and lead list/signal refinement</li>
+                <li>• CRM and sales tech stack guidance and set up</li>
+                <li>• Sales assets, onboarding and traiing guide</li>
+                <li>• Closed lost and closed won deal analysis</li>
                 <li>• Weekly iteration on messaging and strategy</li>
               </ul>
             </div>
