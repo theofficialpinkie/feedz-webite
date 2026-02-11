@@ -54,13 +54,13 @@ export default function App() {
             {/* Tags */}
             <div className="flex flex-wrap gap-2">
               <Tag>Seed to Series A</Tag>
-              <Tag>Fractional first sales hire</Tag>
-              <Tag>YC friendly</Tag>
+              <Tag>B2B Sales</Tag>
+              <Tag>5-10 Customers</Tag>
             </div>
 
             {/* Hero */}
             <h1 className="mt-6 text-4xl font-semibold tracking-tight md:text-5xl">
-              GTM partner for early-stage startups.
+              Fractional first growth hire for early-stage startups.
             </h1>
 
             <p className="mt-5 text-base leading-relaxed text-black/70 md:text-lg">
@@ -79,8 +79,8 @@ export default function App() {
               <div className="text-xs tracking-[0.2em] text-black/55">THE OFFER</div>
               <div className="mt-3 text-xl font-semibold">Fractional first sales hire</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                A strategic GTM partner for Seed to Series A startups. I install the systems,
-                feedback loops, and sales process that turn early conversations into repeatable revenue.
+                A strategic GTM partner for Seed to Series A startups. I help build systems, generate lead lists,
+                convert feedback loops into messaging, and define a sales and qualification process to help you prepare for a full-time sales hire.
               </p>
 
               <ul className="mt-6 space-y-2 text-sm text-black/70">
@@ -96,13 +96,9 @@ export default function App() {
             <div className="mt-12">
               <div className="text-xs tracking-[0.2em] text-black/55">BACKGROUND</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                Hey, I’m Priyanka. I’ve been the first sales hire at high-growth startups and I’ve lived the
-                messy early GTM phase: finding the wedge, iterating on messaging, and turning founder-led sales
-                into a process the team can run. I like working with ambitious founders who want speed and truth
-                from the market.
+                Hey, I’m Priyanka! I've been a first sales hire for multiple high-growth startups. I know the challenges of seeing early signs of product-market fit, iterating on messaging and value and building repeatable sales motions. I love working with passionate founders and tackling go to market and growth challenges.
               </p>
               <p className="mt-3 text-sm text-black/60">
-                If you are a YC-backed team, that’s a plus.
               </p>
             </div>
 
