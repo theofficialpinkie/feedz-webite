@@ -60,7 +60,7 @@ export default function App() {
 
             {/* Hero */}
             <h1 className="mt-6 text-4xl font-semibold tracking-tight md:text-5xl">
-              Fractional first growth sales for early-stage startups.
+              Fractional first sales hire for early-stage startups.
             </h1>
 
             <p className="mt-5 text-base leading-relaxed text-black/70 md:text-lg">
@@ -95,8 +95,14 @@ export default function App() {
             <div className="mt-12">
               <div className="text-xs tracking-[0.2em] text-black/55">BACKGROUND</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                Hey, I’m Priyanka! I've been a first sales hire for multiple high-growth startups. I've been lucky to work at companies like Securitize (raised $100M from Coinbase) as one of the first ten employees and have been a founding AE 2x as well as a founder. I've experienced insane PMF and what it's like to struggle for it. I love working with passionate founders and tackling early growth challenges. 
+              I’m Priyanka. I’ve been a first sales hire for multiple high-growth startups and a founding AE
+                twice. 
+              <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
+                My focus is the in-between stage. You are selling, parts of the motion are working, but it is not yet consistent. You want tighter conversions, clearer qualification, and a sales process that holds up before you hire and scale.
+I help you turn founder-led selling into structure: honest insight from real deals, hands-on execution, and a foundation your first AE can step into with confidence.
+I work with one or two startups at a time. If you are building toward your first repeatable sales motion, reach out.
               </p>
+               </p>
               <p className="mt-3 text-sm text-black/60">
               </p>
             </div>
