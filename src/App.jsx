@@ -85,7 +85,7 @@ export default function App() {
               <ul className="mt-6 space-y-2 text-sm text-black/70">
                 <li>• ICP and lead list/signal refinement</li>
                 <li>• CRM and sales tech stack guidance and set up</li>
-                <li>• Sales assets, onboarding and traiing guide</li>
+                <li>• Sales assets, onboarding and training guides</li>
                 <li>• Closed lost and closed won deal analysis</li>
                 <li>• Weekly iteration on messaging and strategy</li>
               </ul>
@@ -96,12 +96,7 @@ export default function App() {
               <div className="text-xs tracking-[0.2em] text-black/55">BACKGROUND</div>
               <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
               I’m Priyanka. I’ve been a first sales hire for multiple high-growth startups and a founding AE
-                twice. 
-              <p className="mt-3 text-sm md:text-base text-black/70 leading-relaxed">
-                My focus is the in-between stage. You are selling, parts of the motion are working, but it is not yet consistent. You want tighter conversions, clearer qualification, and a sales process that holds up before you hire and scale.
-I help you turn founder-led selling into structure: honest insight from real deals, hands-on execution, and a foundation your first AE can step into with confidence.
-I work with one or two startups at a time. If you are building toward your first repeatable sales motion, reach out.
-              </p>
+                twice. Reach out if you're interested in working together.
                </p>
               <p className="mt-3 text-sm text-black/60">
               </p>
